@@ -1,11 +1,20 @@
 {
-  "name": "hubot-practo",
-  "version": "1.0.0",
-  "description": "",
+  "name": "hubot-minions",
+  "version": "0.0.1",
+  "description": "Minions from Despicable movie to cheer team up",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sonu kr. meena <sonukr666@gmail.com> (https://github.com/sahilsk/node-cronitor-client)",
-  "license": "ISC"
+  "repository": "sahilsk/hubot-minions",
+   "keywords": [
+    "minions",
+    "hubot-scripts"
+  ], 
+  "author": "sonu kr. meena <sonukr666@gmail.com> (https://github.com/sahilsk)",
+  "bugs": {
+    "url": "https://github.com/sahilsk/hubot-minions/issues"
+  }, 
+  "license": "MIT",
+  "homepage": "http://sahilsk.github.io/hubot-minions/"
 }
