@@ -22,7 +22,8 @@ Usage
 
 - Get minion by tags
 	
-	Each picture is given a list of tags. It pick one picture randomly  matching the specified tag;
+	Each picture is given a list of tags. It pick one picture randomly matching the specified tag;
+	Find all tags [here: https://github.com/sahilsk/hubot-minions/blob/master/lib/minions.js#L5-L36](https://github.com/sahilsk/hubot-minions/blob/master/lib/minions.js#L5-L36)
 
 		botname minion swim
 
