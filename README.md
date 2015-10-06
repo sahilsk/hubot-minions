@@ -30,6 +30,12 @@ Usage
 ![alt swim](http://sahilsk.github.io/hubot-minions/public/images/minions/swimming-Minion-icon.png)
 	
 
+Cute Minions
+-------
+
+![alt minion list](minions_list.png)
+
+
 
 LICENSE
 -------
