@@ -33,6 +33,8 @@ Usage
 Cute Minions
 -------
 
+Find them [here](http://sahilsk.github.io/hubot-minions/)
+
 ![alt minion list](minions_list.png)
 
 
